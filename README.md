@@ -4,7 +4,6 @@ This repository contains the Python labs that accompany the book **Image Process
 No installation is required.
 
 - Chapter 1 Lab (Basics): **Open in Colab**
-- Chapter 1 Exercises: **Open in Colab**
 
 > Tip: In Colab, click **File → Save a copy in Drive** to keep your work.
 
